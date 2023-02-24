@@ -40,11 +40,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 80px;
+  height: 8px;
 }
 
 .logo-img {
-  width: 100px;
+  width: 10px;
 }
 
 .sp-nav {
@@ -106,10 +106,10 @@
   }
 
   .box-logo {
-    height: 60px;
+    height: 6px;
   }
 
   .logo-img {
-    width: 70px;
+    width: 7px;
   }
 }
