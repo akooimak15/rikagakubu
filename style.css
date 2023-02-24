@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'moji'; 
+  src: url('https://akooimak15.github.io/rikagakubu/chogokubosogothic_5.ttf') format('truetype');
+}
+
+body {
+　font-family: 'moji', sans-serif
+}
 
 .button-16 {
   position: relative;
